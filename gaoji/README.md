@@ -11,7 +11,6 @@
 from functools import reduce
 def add(x,y):
 	return x+y
-
 reduce(add,[1,2,3,4,5])
 15
 
